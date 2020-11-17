@@ -9,8 +9,8 @@
 
 ### Requirements:
 
-* Have Git to clone the project
-* Have Node.js installed.
+* Have Git to clone the project;
+* Have Node.js installed;
 * Have Docker running a container PostgreSQL.
 
 ### Starting back-end
@@ -30,7 +30,7 @@
   
  ### Starting front-end
 ``` bash
-  #Enter the front-end directory:
+  # Enter the front-end directory:
   $ cd frontend
 
   # Install dependencies:
