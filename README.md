@@ -31,7 +31,7 @@
  ### Starting front-end
 ``` bash
   # Enter the front-end directory:
-  $ cd frontend
+  $ cd perfect-brows-web
 
   # Install dependencies:
   $ yarn
