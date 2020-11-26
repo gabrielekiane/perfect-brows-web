@@ -13,6 +13,12 @@
 * Have Node.js installed;
 * Have Docker running a container PostgreSQL.
 
+### Starting environment - Docker:
+``` bash
+  # starting database on docker:
+  $ docker start gostack_postegres
+```
+
 ### Starting back-end
 ``` bash
   # Enter the backend directory:
